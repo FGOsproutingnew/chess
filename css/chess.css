@@ -7,6 +7,7 @@
   right: 0;
   bottom: 0;
   margin: auto;
+  background: #4f5b64;
 }
 
 .heng {
@@ -32,7 +33,7 @@
   background: black; }
 
 .white {
-  background: red; }
+  background: white; }
 
 .shu {
   height: 560px;
