@@ -5,6 +5,7 @@
   width: $w;
   height: $w;
   @include center;
+  background: #4f5b64;
 }
 .heng{
   width: $w - $r * 2;
@@ -27,7 +28,7 @@
   background: black;
 }
 .white{
-  background: red;
+  background: white;
 }
 .shu{
   height: $w - $r * 2;
